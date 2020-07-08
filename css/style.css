@@ -1,0 +1,31 @@
+.carousel-item{
+    padding: 30px;
+}
+.container{
+    margin-bottom: 100px;
+}
+#navigation{
+    margin-bottom: 0px;
+}
+.slider{
+    margin-top:116px;   
+}
+.card-deck{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap:.5rem;
+}
+.card-mobile{
+    box-shadow: 1px 4px 20px 1px #23ff85;
+}
+.card-laptop{
+    box-shadow: 1px 4px 20px 1px #2623fff2;
+}
+.cat-images{
+    width: 100%;
+}
+.cat-bag, .cat-parfium, .cat-shoes{
+    box-shadow: 0px 6px 20px 1px #e58587;
+    padding: 10px;
+    border-radius: 25px 5px;
+}
